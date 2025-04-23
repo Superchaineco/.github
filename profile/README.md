@@ -6,5 +6,5 @@
 <p align="center">Unofficial HQ for everything Optimism and the Superchain Ecosystem.</p>
 
 <p align="center">
-  <a href="https://www.superchain.eco" target="_blank" rel="noopener"> Website</a> | <a href="https://account.superchain.eco" target="_blank" rel="noopener"> Account</a> | <a href="https://docs.superchain.eco" target="_blank" rel="noopener"> Documentation</a>  <a href="https://x.com/SuperchainEco" target="_blank" rel="noopener">Twitter</a>
+  <a href="https://www.superchain.eco" target="_blank" rel="noopener"> Website</a> | <a href="https://account.superchain.eco" target="_blank" rel="noopener"> Account</a> | <a href="https://docs.superchain.eco" target="_blank" rel="noopener"> Documentation</a> | <a href="https://x.com/SuperchainEco" target="_blank" rel="noopener">Twitter</a>
 </p>
